@@ -1,0 +1,1 @@
+{"description":"Telegram bot demo — Vercel webhook + local polling, Burmese","engines":{"node":">=18"},"name":"telegram-bot-demo","scripts":{"start":"node bot.js"},"type":"module","version":"1.0.0"}
