@@ -1,1 +1,15 @@
-{"description":"Telegram bot demo — Vercel webhook + local polling, Burmese","engines":{"node":">=18"},"name":"telegram-bot-demo","scripts":{"start":"node bot.js"},"type":"module","version":"1.0.0"}
+{
+  "description": "Telegram bot demo \u2014 Vercel webhook + local polling, Burmese",
+  "engines": {
+    "node": ">=18"
+  },
+  "name": "telegram-bot-demo",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "type": "module",
+  "version": "1.0.0",
+  "dependencies": {
+    "tesseract.js": "^7.0.0"
+  }
+}
